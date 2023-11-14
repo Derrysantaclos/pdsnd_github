@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 month_list =['all', 'january', 'february','march', 'april','may','june']
-
+refactoring_change ="Just a test line"
 def get_filters():
     
    
